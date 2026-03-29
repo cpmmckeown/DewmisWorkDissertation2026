@@ -1,0 +1,1015 @@
+:: StoryTitle
+video 
+
+
+:: StoryData
+{
+  "ifid": "915416B4-58E1-4F7C-9415-A2272DC50C7F",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Introduction",
+  "zoom": 1
+}
+
+
+:: \ esplanade ending {"position":"650,1075","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Esplanade%20Ending%20Reedited.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+
+</div>
+</div>
+
+}}}
+
+
+:: \ gardens ending {"position":"275,1075","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Gardens%20By%20The%20Bay%20Ending.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+
+</div>
+</div>
+
+}}}
+
+
+:: Cycle to mbs {"position":"675,725","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Cycling%20To%20Mbs%282%29.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:110s;">
+[[Hawker Centre->Hawker Centre 3]]
+[[Food Court->Food Court 3]]
+</div>
+</div>
+
+}}}
+
+
+:: Cycle to mbs\  {"position":"250,700","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Cycling%20To%20Mbs.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:110s;">
+[[Hawker Centre->Hawker Centre]]
+[[Food Court->Food Court]]
+</div>
+</div>
+
+}}}
+
+
+:: Eat {"position":"1100,700","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Food%20Court.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:72s;">
+[[Yes ->yes to merlion ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Esplanade {"position":"775,575","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:93s;">
+[[Hawker Centre ->Hawker Centre1]]
+[[Food Court->Food Court 1]]
+</div>
+</div>
+
+}}}
+ 
+
+
+:: Explore {"position":"1225,700","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:93s;">
+[[Hawker Centre ->Hawker Centre2]]
+[[Food Court->Food Court 2]]
+</div>
+</div>
+
+}}}
+
+
+:: Food Court {"position":"375,900","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Food%20Court.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:72s;">
+[[Yes -> gardens ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Food Court 1 {"position":"825,750","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Food%20Court.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:72s;">
+[[Yes ->yes to merlion ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Food Court 2 {"position":"1325,825","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Food%20Court.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:72s;">
+[[Yes ->yes to merlion ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Food Court 3 {"position":"700,900","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Food%20Court.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:72s;">
+[[Yes -> esplanade ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Gardens By the Bay 1 {"position":"1100,550","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Gardens%20By%20The%20Bay.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:57s;">
+[[Eat ->Eat]]
+[[Explore->Explore]]
+</div>
+</div>
+
+}}}
+ 
+
+
+:: Hawker Centre {"position":"225,900","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:82s;">
+[[Yes -> gardens ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Hawker Centre 3 {"position":"550,900","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:82s;">
+[[Yes -> esplanade ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Hawker Centre1 {"position":"975,750","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:82s;">
+[[Yes ->yes to merlion ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Hawker Centre2 {"position":"1175,825","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:82s;">
+[[Yes ->yes to merlion ending]]
+
+</div>
+</div>
+
+}}}
+
+
+:: Introduction {"position":"675,325","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Introduction(1).mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:13s;">
+[[Merlion ->Merlion]]
+[[Marina Bay->Marina Bay]]
+</div>
+</div>
+
+}}}
+ 
+
+
+:: Left (esplanade)\  {"position":"350,575","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Esplanade%20Cycle%20Or%20Walk%20Reedited.mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:115s;">
+[[Walk->walk to mbs]]
+[[Cycle->Cycle to mbs ]]
+</div>
+</div>
+
+}}}
+
+
+:: Marina Bay {"position":"825,425","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Mbs%20Esplanade%20Or%20Gbb.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:70s;">
+[[Gardens By the Bay ->Gardens By the Bay 1]]
+[[Esplanade->Esplanade]]
+</div>
+</div>
+
+}}}
+ 
+
+
+:: Merlion {"position":"500,450","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Merlion%20Left%20Or%20Right.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:30s;">
+[[Left ->Left (esplanade) ]]
+[[Right->Right]]
+</div>
+</div>
+
+}}}
+ 
+
+
+:: Right {"position":"600,575","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="To%20The%20Right.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:19.10s;">
+[[Walk->Walk to mbs]]
+[[Cycle->Cycle to mbs]]
+</div>
+</div>
+
+}}}
+
+
+:: Walk to mbs {"position":"550,725","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Walking%20To%20Mbs.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:110s;">
+[[Hawker Centre->Hawker Centre 3]]
+[[Food Court->Food Court 3]]
+</div>
+</div>
+
+}}}
+
+
+:: walk to mbs {"position":"400,700","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Walking%20to%20mbs.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+<div class="main-section">
+<div class="choices" style="animation-delay:110s;">
+[[Hawker Centre->Hawker Centre]]
+[[Food Court->Food Court]]
+</div>
+</div>
+
+}}}
+
+
+:: yes to merlion ending {"position":"1075,1025","size":"100,100"}
+{{{
+<video autoplay class="bg-video">
+<source src="Merlion%20Ending.mp4" type="video/mp4">
+</video>
+<div class="video-controls">
+  <button id="playBtn">Play/Pause</button>
+  <button id="muteBtn">Mute/Unmute</button>
+  <button id="loopBtn">Toggle Loop</button>
+  <button id="restartBtn">Restart</button>
+</div>
+<script>
+setTimeout(() => window.videoControls.init(), 100);
+</script>
+
+
+</div>
+</div>
+
+}}}
+
+
+:: StoryScript [script]
+// Store the functions in a way Harlowe can't mess with
+window.videoControls = {
+  init: function() {
+    const video = document.querySelector('.bg-video, #bg-video, video');
+    if (!video) return;
+
+    // Find all control buttons and attach events directly
+    const playBtn = document.getElementById('playBtn');
+    const muteBtn = document.getElementById('muteBtn');
+    const loopBtn = document.getElementById('loopBtn');
+    const restartBtn = document.getElementById('restartBtn');
+    if (playBtn) {
+      playBtn.onclick = function() {
+        if (video.paused) video.play();
+        else video.pause();
+      };
+    }
+
+    if (muteBtn) {
+      muteBtn.onclick = function() {
+        video.muted = !video.muted;
+      };
+    }
+
+    if (loopBtn) {
+      loopBtn.onclick = function() {
+        video.loop = !video.loop;
+      };
+    }
+
+    if (restartBtn) {
+      restartBtn.onclick = function() {
+        video.currentTime = 0;
+        video.play();
+      };
+    }
+  }
+};
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Notable&family=VT323&display=swap');
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ===== Background ===== */
+body{
+  background-color:black;
+  text-align: center;
+}
+
+/* ===== Background Video ===== */
+.bg-video {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  transition: transform 4s ease, filter 4s ease;
+}
+
+.bg-video.animated{animation: cinematicDim 1.2s ease 4s forwards;}
+
+@keyframes cinematicDim {
+  from {
+    filter: brightness(1) saturate(1) blur(0);
+    transform: scale(1);
+  }
+  to {
+    filter: brightness(0.8) saturate(0.9) blur(2px);
+    transform: scale(1.03);
+  }
+}
+
+.bg-video::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  transition: background 1.2s ease;
+  pointer-events: none;
+}
+
+.bg-video.dimmed {
+  filter: brightness(0.8) saturate(0.9) blur(2px);
+  transform: scale(1.03);
+}
+
+.bg-video.dimmed::after {
+  background: rgba(0, 0, 0, 0.35);
+}
+
+/* ===== Choice Video ===== */
+.choice-video {
+  width: 100%;
+}
+
+/* ===== Text Formatting ===== */
+.TopText
+{
+  position: absolute;
+  font-size: 2vw;
+  line-height: normal;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.BottomText
+{
+  position: absolute;
+  font-size: 2vw;
+  line-height: normal;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* ===== Harlowe Tweaks ===== */
+tw-sidebar
+{
+  visibility: hidden;
+  /*Stops it from being visible*/
+  z-index:-100; /*Stops it from being clickable*/
+  position: fixed;
+  /*Taking it out of the flow*/
+}
+
+tw-include
+{
+  position:fixed;
+}
+
+tw-story
+{
+  padding: 6.5% 20%;
+  background-color:transparent;
+    font-family: "Notable", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+tw-passage
+{
+  height: 500px;
+}
+
+/* ===== Turning Links into Buttons ===== */
+tw-link, .choice
+{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1em 2em;
+  border-radius: 16px;
+
+  background: rgba(80, 80, 80, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  color: rgba(255, 255, 255, 0.95);
+  font-size: clamp(0.95rem, 1vw, 1.1rem);
+  font-family: "Notable", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  cursor: pointer;
+  user-select: none;
+
+  transition:
+    transform 0.3s ease,
+    background 0.3s ease,
+    box-shadow 0.3s ease;
+  min-width: 20vw; 
+  max-width: 500px;/* cap growth */
+}
+
+tw-link:hover, .choice:hover{
+  background: rgba(100, 100, 100, 0.55);
+  transform: translateY(-3px);
+  box-shadow:
+    0 12px 32px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+tw-link:active, .choice:active{
+  transform: translateY(0px) scale(0.98);
+}
+
+/* ===== Fade In + Up Animation ===== */
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* ===== Setting up the Interactive Video space ===== */
+.main-section
+{
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* pushes content to bottom */
+  min-height: 80dvh; /* better than 100vh for mobile */
+}
+
+/* ===== Space that holds the Link Buttons ===== */
+.choices {
+  display: flex;
+  flex-wrap: wrap;
+  z-index: 6;
+  gap: 2rem;
+  justify-content: space-evenly;
+  align-items: center;
+  /* Fade-in animation */
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.8s cubic-bezier(.22,.61,.36,1) forwards;
+}
+
+.choices:has(> :nth-child(4):last-child) > * {
+  min-width: 10vw;
+}
+
+/* =========== Countdown Bar ======== */
+/* ===== Could experiment with Harlowe's built in meter?
+ ===== */
+/* ===== Minimal Cinematic Countdown Bar ===== */
+
+.timer-wrapper {
+  /*grid-column: 1 / -1;
+  span ALL columns */
+  flex: 0 0 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  z-index: 7;
+}
+
+.timer-wrapper.appear
+{
+  /* Fade-in animation */
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.8s cubic-bezier(.22,.61,.36,1) forwards;
+}
+
+.timer-bar {
+  --duration: 5s; /* fallback */
+
+  width: min(60vw, 500px);
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+
+  box-shadow:
+    0 0 15px rgba(255, 255, 255, 0.25);
+
+  transform-origin: center;
+  animation: collapseBar var(--duration) linear forwards;
+}
+
+@keyframes collapseBar {
+  0% {
+    transform: scaleX(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scaleX(0);
+    opacity: 0.3;
+  }
+}
+
+/* ===== HORROR THEME ===== */
+tw-story.theme-horror tw-link {
+  font-family: "Cinzel", "Cormorant Garamond", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  background: linear-gradient(180deg, #1a0000, #000);
+  border: 1px solid #3a0000;
+  border-radius: 4px;
+
+  color: #e6e6e6;
+  box-shadow:
+    0 0 12px rgba(120, 0, 0, 0.6),
+    inset 0 0 8px rgba(255, 0, 0, 0.15);
+  transition: all 0.25s ease;
+}
+
+tw-story.theme-horror tw-link:hover {
+  color: #fff;
+  background: linear-gradient(180deg, #2a0000, #000);
+  box-shadow:
+    0 0 20px rgba(200, 0, 0, 0.9),
+    inset 0 0 12px rgba(255, 0, 0, 0.25);
+  transform: translateY(-2px);
+}
+
+tw-story.theme-horror tw-link:active {
+  transform: scale(0.96);
+}
+
+/* ===== SKATER THEME ===== */
+tw-story.theme-skater tw-link {
+  font-family: "Oswald", "Arial Black", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  background: #111;
+  color: #f5f5f5;
+
+  border: 3px solid #ff2e63;
+  border-radius: 2px;
+
+  box-shadow: 6px 6px 0 #00f5d4;
+  transition: all 0.15s ease;
+}
+
+tw-story.theme-skater tw-link:hover {
+  background: #ff2e63;
+  color: #000;
+  box-shadow: 3px 3px 0 #00f5d4;
+  transform: translate(3px, 3px);
+}
+
+tw-story.theme-skater tw-link:active {
+  box-shadow: none;
+  transform: translate(6px, 6px);
+}
+
+/* ===== RETRO ARCADE THEME ===== */
+tw-story.theme-arcade tw-link {
+  font-family: "Press Start 2P", monospace;
+  font-size: 0.8rem;
+
+  background: #0d0221;
+  color: #00f7ff;
+
+  border: 2px solid #ff00c8;
+  border-radius: 8px;
+
+  text-shadow: 0 0 6px #00f7ff;
+  box-shadow:
+    0 0 10px #ff00c8,
+    0 0 20px #ff00c8 inset;
+
+  transition: all 0.2s ease;
+}
+
+tw-story.theme-arcade tw-link:hover {
+  color: #fff;
+  background: #1a0440;
+  box-shadow:
+    0 0 20px #00f7ff,
+    0 0 30px #ff00c8 inset;
+}
+
+/* ===== INDIE FILM THEME ===== */
+tw-story.theme-indie tw-link {
+  font-family: "Playfair Display", serif;
+
+  background: #e8e3dc;
+  color: #2a2a2a;
+
+  border: none;
+  border-radius: 40px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+  transition: all 0.3s ease;
+}
+
+tw-story.theme-indie tw-link:hover {
+  background: #d6cec3;
+  transform: translateY(-2px);
+}
+
+tw-story.theme-indie tw-link:active {
+  transform: scale(0.98);
+}
