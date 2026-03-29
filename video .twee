@@ -15,7 +15,7 @@ video
 :: \ esplanade ending {"position":"650,1075","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Esplanade%20Ending%20Reedited.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Esplanade%20Ending%20Reedited.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -37,7 +37,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: \ gardens ending {"position":"275,1075","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Gardens%20By%20The%20Bay%20Ending.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Gardens%20By%20The%20Bay%20Ending.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -59,7 +59,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Cycle to mbs {"position":"675,725","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Cycling%20To%20Mbs%282%29.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Cycling%20To%20Mbs%282%29.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -84,7 +84,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Cycle to mbs\  {"position":"250,700","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Cycling%20To%20Mbs.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Cycling%20To%20Mbs.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -109,7 +109,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Eat {"position":"1100,700","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Food%20Court.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Food%20Court.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -134,7 +134,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Esplanade {"position":"775,575","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -160,7 +160,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Explore {"position":"1225,700","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Esp%20Hawker%20Or%20Food%20Court%20Reedited.mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -185,7 +185,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Food Court {"position":"375,900","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Food%20Court.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Food%20Court.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -210,7 +210,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Food Court 1 {"position":"825,750","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Food%20Court.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Food%20Court.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -235,7 +235,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Food Court 2 {"position":"1325,825","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Food%20Court.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Food%20Court.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -260,7 +260,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Food Court 3 {"position":"700,900","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Food%20Court.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Food%20Court.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -285,7 +285,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Gardens By the Bay 1 {"position":"1100,550","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Gardens%20By%20The%20Bay.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Gardens%20By%20The%20Bay.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -311,7 +311,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Hawker Centre {"position":"225,900","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -336,7 +336,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Hawker Centre 3 {"position":"550,900","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -361,7 +361,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Hawker Centre1 {"position":"975,750","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -386,7 +386,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Hawker Centre2 {"position":"1175,825","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Hawker%20Centre%20Reedited%20Again.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -411,7 +411,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Introduction {"position":"675,325","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Introduction(1).mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Introduction(1).mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -437,7 +437,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Left (esplanade)\  {"position":"350,575","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Esplanade%20Cycle%20Or%20Walk%20Reedited.mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Esplanade%20Cycle%20Or%20Walk%20Reedited.mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -462,7 +462,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Marina Bay {"position":"825,425","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Mbs%20Esplanade%20Or%20Gbb.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Mbs%20Esplanade%20Or%20Gbb.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -488,7 +488,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Merlion {"position":"500,450","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Merlion%20Left%20Or%20Right.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Merlion%20Left%20Or%20Right.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -514,7 +514,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Right {"position":"600,575","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="To%20The%20Right.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/To%20The%20Right.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -539,7 +539,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: Walk to mbs {"position":"550,725","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Walking%20To%20Mbs.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Walking%20To%20Mbs.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -564,7 +564,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: walk to mbs {"position":"400,700","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Walking%20to%20mbs.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Walking%20to%20mbs.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -589,7 +589,7 @@ setTimeout(() => window.videoControls.init(), 100);
 :: yes to merlion ending {"position":"1075,1025","size":"100,100"}
 {{{
 <video autoplay class="bg-video">
-<source src="Merlion%20Ending.mp4" type="video/mp4">
+<source src="https://github.com/cpmmckeown/DewmisWorkDissertation2026/raw/refs/heads/main/Merlion%20Ending.mp4" type="video/mp4">
 </video>
 <div class="video-controls">
   <button id="playBtn">Play/Pause</button>
@@ -620,6 +620,7 @@ window.videoControls = {
     const muteBtn = document.getElementById('muteBtn');
     const loopBtn = document.getElementById('loopBtn');
     const restartBtn = document.getElementById('restartBtn');
+
     if (playBtn) {
       playBtn.onclick = function() {
         if (video.paused) video.play();
@@ -859,7 +860,7 @@ tw-link:active, .choice:active{
 
 /* =========== Countdown Bar ======== */
 /* ===== Could experiment with Harlowe's built in meter?
- ===== */
+===== */
 /* ===== Minimal Cinematic Countdown Bar ===== */
 
 .timer-wrapper {
